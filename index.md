@@ -4,7 +4,6 @@
 
 ## Step 1- Create A Github Account
 * Click on [This](https://github.com) below, you will be able to visit the *Github* homepage. Click on the `Sign Up` buttom on the upper right corner to create an account.
-
 ---
 
 ## Step 2- Create A New Repository
