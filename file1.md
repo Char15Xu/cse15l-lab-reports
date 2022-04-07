@@ -19,7 +19,7 @@
 * You can type in anything you like for your website. For example, 
 
 '''
-## Codes
+# Codes
 print 'Hello World'
 print 'Here is my website'
 '''
@@ -31,6 +31,7 @@ Once finished, click on the green 'Commit New File' buttom at the bottom of the 
 * Click on the 'Setting' buttom on the upper right corner and click on 'Page' under 'code and automation' section. Under 'select branch' click 'main'. You will see a message says >Your site is ready to be published at <url here>.
 Wait for a 2-5 minutes for your website to be published. Boom. Personal website created. 
 Here's mine: [Link](https://Char15Xu.github.io/cse15l-lab-reports/index.html)
+--- 
   
 ## Summary
 1. Create a Github account
