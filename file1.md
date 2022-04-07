@@ -1,6 +1,5 @@
 # Steps to Create a Github Website
-![Image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fportswigger.net%2Fdaily-swig%2Fopen-source-tool-for-bug-hunters-searches-for-leaked-secrets-in-github-commits&psig=AOvVaw08xqT5bl_1MgBro1te_9PB&ust=1649439721727000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIit6oTAgvcCFQAAAAAdAAAAABAD)
-
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F97782842&psig=AOvVaw3qFaYXiUxwIcmB6PveyVL4&ust=1649442777369000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDH_LDLgvcCFQAAAAAdAAAAABAJ)
 
 ## Step 1- Create A Github Account
 * Click on [This](https://github.com) below, you will be able to visit the *Github* homepage. Click on the `Sign Up` buttom on the upper right corner to create an account.
