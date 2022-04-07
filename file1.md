@@ -1,6 +1,9 @@
 # Create A Github Website Under 5 Min
 ![Image](image.jpeg)
 
+Charles Xu,  April 7th, 2022
+---
+
 ## Step 1- Create A Github Account
 
 - Click on this [link](https://github.com), you will be able to visit the *Github* homepage. Click on the `Sign Up` buttom on the upper right corner to create an account.
