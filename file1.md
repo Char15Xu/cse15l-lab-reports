@@ -1,4 +1,4 @@
-# Create a Github Website under 5 Min
+# Create A Github Website Under 5 Min
 ![Image](image.jpeg)
 
 ## Step 1- Create A Github Account
