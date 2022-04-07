@@ -1,4 +1,4 @@
-# Steps to Create a Github Website
+# Create a Github Website under 5 Min
 ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F97782842&psig=AOvVaw3qFaYXiUxwIcmB6PveyVL4&ust=1649442777369000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDH_LDLgvcCFQAAAAAdAAAAABAJ)
 
 ## Step 1- Create A Github Account
