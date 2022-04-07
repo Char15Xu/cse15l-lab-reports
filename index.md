@@ -22,8 +22,7 @@
 print 'Hello World'
 print 'Here is my website'
 ```
-Once finished, click on the green `Commit New File` buttom at the bottom of the page. 
--
+* Once finished, click on the green `Commit New File` buttom at the bottom of the page. 
 --- 
 
 ## Step 5- Setting And Done!
