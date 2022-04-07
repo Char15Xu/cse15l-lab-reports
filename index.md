@@ -1,8 +1,13 @@
-Hello This is CSE 15 
+Hello, this site is for CSE 15L-SP 21 at University of California, San Diego. 
+
 Charles Xu
+
+Sites to explore: 
+
+[Markdown Basics](https://char15xu.github.io/cse15l-lab-reports/markdown.md)
 
 [Create A Personal Website under 5min](https://char15xu.github.io/cse15l-lab-reports/file1.html)
 
-[Markdown Basics](https://char15xu.github.io/cse15l-lab-reports/markdown.md)
+
 
 
