@@ -76,7 +76,7 @@ class WhereAmI {
 
 2. I logged into server, created a new directory called `.ssh`, and logged out from the server. ![Image](5.png)
 
-3. I copied the public key from client to the server. When I tried to connect with the server again, I am no longer asked to enter passwords. ![Image](6.png)
+3. I copied the public key from client to the directory `.ssh` that I just created in server. Now, when I tried to connect with the server again, I am no longer asked to enter passwords. ![Image](6.png)
 
 ---
 
