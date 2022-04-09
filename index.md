@@ -8,6 +8,10 @@ Sites to explore:
 
 [Create A Personal Website under 5min](https://char15xu.github.io/cse15l-lab-reports/file1.html)
 
+[Lab Report 1](lab-report-1-week-2.html) 
+
+
+[Lab Report 1](https://char15xu.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
 
 
 
