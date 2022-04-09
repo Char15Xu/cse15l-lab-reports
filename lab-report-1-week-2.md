@@ -85,3 +85,5 @@ class WhereAmI {
 2. Remember the `WhereAmI.java` I created in the previous section. I can remotely compile and run the `WhereAmI` file by simply entering `ssh cs15lsp22axa@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`. ![Image](8.png)
 
 ---
+
+
