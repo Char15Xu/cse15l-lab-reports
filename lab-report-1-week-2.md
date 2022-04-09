@@ -23,10 +23,16 @@ This lab report includes the following sections:
 
 
 ## Remotely Connecting
+![Image](ssh1.png)
+![Image](ssh2.png)
 
+1. To remotely connect with the server computer, I first found my username from this [website](https://sdacs.ucsd.edu/~icc/index.php)
+
+2. Then, I typed `ssh cs15lsp22<username>@ieng6.ucsd.edu` and entered password, which successfully connect my terminal with the server computer. 
 
 
 ## Trying Some Commands
+
 
 ## Moving Files with scp
 
