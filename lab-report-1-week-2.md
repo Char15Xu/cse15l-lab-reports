@@ -1,6 +1,5 @@
 # Lab Report 1 Week 2
-April 10th, 2022
-Tianyang Xu
+April 10th, 2022. Tianyang Xu. 
 
 This lab report includes the following sections:
 - Installing VS Code
@@ -27,7 +26,7 @@ This lab report includes the following sections:
 
 ## Remotely Connecting
 
-1. To remotely connect with the server computer, I first found my username from this [website](https://sdacs.ucsd.edu/~icc/index.php)
+1. To remotely connect with the server computer, I first found my username from this [website](https://sdacs.ucsd.edu/~icc/index.php). 
 
 2. Then, I typed `ssh cs15lsp22<username>@ieng6.ucsd.edu` and entered password, which successfully connected my terminal with the server computer as shown below. ![Image](ssh1.png) ![Image](ssh2.png)
 
@@ -35,10 +34,9 @@ This lab report includes the following sections:
 
 
 ## Trying Some Commands
-- Here is some commmands I tried on the server computer, including cd, cd ~, ls, ls -lat, ls -a. 
-![Image](commandssh.png)
+- Here are some commmands I tried on the server computer, including cd, cd ~, ls, ls -lat, ls -a. ![Image](commandssh.png)
 
-- I tried the above commands on my Mac after I disconnect from the server computer using "exit" command. Here is the result. These commands behave very similarly on both computers. 
+- I disconnect from the server computer using "exit" command and tried the above commands on my Mac. Here is the result. These commands behave very similarly on both computers. 
 ![Image](commandmac.png)
 
 --- 
@@ -57,34 +55,32 @@ class WhereAmI {
   }
 ```
 
-2. Then, I compiled and ran the program on my computer, it returns information about my computer. 
+2. Then, I compiled and ran the program on my computer, it returned information about my computer. 
 ![Image](1.png)
 
-3. I copied the file from my computer to the server using `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` command. To verify, I connected with server again using `ssh` commmand and found the `WhereAmI.java` using `ls`. 
-![Image](2.png)
+3. I copied the file from my computer to the server using `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` command. To verify, I connected with server, entered `ls` command, and found the `WhereAmI.java` file. ![Image](2.png)
 
-4. I compiled and ran the file on the server and got information about the server computer as expected.
-![Image](3.png)
+4. I compiled the file, ran it on the server, and got information about the server computer as expected. ![Image](3.png)
 
 ---
 
 
 ## Setting an SSH Key
-- SSH key allows users to connect with server without entering passwords. Client computer will store a private key, and the server will store the public key. Whenever client try to connect with the the server, user no longer needs to enter passwords once the private key matches with the public key. 
+- SSH key allows users to connect with server without entering passwords. Client computer will store a private key, and the server will store the public key. Whenever client try to connect with the the server, user no longer needs to enter passwords as long as the private key matches with the public key. 
 
 1. To do so, I first generated a ssh-key on the client and the save the public key in my computer. ![Image](4.png)
 
 2. I logged into server, created a new directory called `.ssh`, and logged out from the server. ![Image](5.png)
 
-3. I copied the public key from client to the directory `.ssh` that I just created in server. Now, when I tried to connect with the server again, I am no longer asked to enter passwords. ![Image](6.png)
+3. I copied the public key from client to the directory `.ssh` that I just created in server. Now, when I try to connect with the server, I will be no longer asked to enter passwords. ![Image](6.png)
 
 ---
 
 
 ## Optimizing Remote Running
-- By now, I have ran commands by logging into the server. However, it is possible to run commands on remote server without logging in every time. To achaieve this, type the follwing code `ssh cs15lspzz@ieng6.ucsd.edu "command"`, where "command" is the command you wish to run. Here are two simple example. 
+- By now, I have ran commands by logging into the server. However, it is possible to run commands on remote server without logging in every time. To achaieve this, type the follwing code `ssh cs15lspzz@ieng6.ucsd.edu "command"`, where "command" is the command you wish to run. Here are two simple examples. 
 
-1. I can remotely list all files in the server by entering '`ssh cs15lspzz@ieng6.ucsd.edu "ls"`. ![Image](7.png)
+1. I can remotely list all the files in server by entering '`ssh cs15lspzz@ieng6.ucsd.edu "ls"`. ![Image](7.png)
 
 2. Remember the `WhereAmI.java` I created in the previous section. I can remotely compile and run the `WhereAmI` file by simply entering `ssh cs15lsp22axa@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`. ![Image](8.png)
 
