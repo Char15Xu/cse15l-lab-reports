@@ -82,3 +82,10 @@ class WhereAmI {
 
 
 ## Optimizing Remote Running
+- By now, I have ran commands by logging into the server. However, it is possible to run commands on remote server without logging in eavery time. To achaieve this, type the follwing code `ssh cs15lspzz@ieng6.ucsd.edu "command"`, where "command" is the command you wish to ran. Here is two simple example. 
+
+1. I can remotely list all files in the server by entering '`ssh cs15lspzz@ieng6.ucsd.edu "ls"`. ![Image](7.png)
+
+2. Remember the `WhereAmI.java` I created in the previous section. I can remotely compile and run the `WhereAmI` file by simply entering `ssh cs15lsp22axa@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`. ![Image](8.png)
+
+---
