@@ -82,7 +82,7 @@ class WhereAmI {
 
 
 ## Optimizing Remote Running
-- By now, I have ran commands by logging into the server. However, it is possible to run commands on remote server without logging in every time. To achaieve this, type the follwing code `ssh cs15lspzz@ieng6.ucsd.edu "command"`, where "command" is the command you wish to ran. Here is two simple example. 
+- By now, I have ran commands by logging into the server. However, it is possible to run commands on remote server without logging in every time. To achaieve this, type the follwing code `ssh cs15lspzz@ieng6.ucsd.edu "command"`, where "command" is the command you wish to run. Here are two simple example. 
 
 1. I can remotely list all files in the server by entering '`ssh cs15lspzz@ieng6.ucsd.edu "ls"`. ![Image](7.png)
 
