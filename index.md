@@ -1,4 +1,4 @@
-Hello, this site is for CSE 15L-SP 21 at University of California, San Diego. 
+Hello, this site is for CSE 15L SP21 at University of California, San Diego. 
 
 Charles Xu
 
