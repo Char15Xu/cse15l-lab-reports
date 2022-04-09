@@ -1,4 +1,6 @@
 # Lab Report 1 Week 2
+April 10th, 2022
+Tianyang Xu
 
 This lab report includes the following sections:
 - Installing VS Code
@@ -18,6 +20,7 @@ This lab report includes the following sections:
 2. Click the blue download button to download VSCode. Since I am using a MacBook, I downloaded the Mac Univseral version. 
 
 3. Once downloaded from the website, follow the instruction and finish intalling on the computer. 
+
 
 ## Remotely Connecting
 
