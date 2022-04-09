@@ -12,6 +12,7 @@ This lab report includes the following sections:
 
 --- 
 
+
 ## Installing VS Code
 ![Image](vscode.png)
 
@@ -23,6 +24,7 @@ This lab report includes the following sections:
 
 --- 
 
+
 ## Remotely Connecting
 
 1. To remotely connect with the server computer, I first found my username from this [website](https://sdacs.ucsd.edu/~icc/index.php)
@@ -30,6 +32,7 @@ This lab report includes the following sections:
 2. Then, I typed `ssh cs15lsp22<username>@ieng6.ucsd.edu` and entered password, which successfully connected my terminal with the server computer as shown below. ![Image](ssh1.png) ![Image](ssh2.png)
 
 --- 
+
 
 ## Trying Some Commands
 - Here is some commmands I tried on the server computer, including cd, cd ~, ls, ls -lat, ls -a. 
@@ -40,8 +43,9 @@ This lab report includes the following sections:
 
 --- 
 
+
 ## Moving Files with scp
-- To copy a file from client to server, I created a new java file called `WhereAmI.java` which contains following codes:
+1. To copy a file from client to server, I created a new java file called `WhereAmI.java` which contains following codes:
 ```
 class WhereAmI {
     public static void main(String[] args) {
@@ -53,18 +57,28 @@ class WhereAmI {
   }
 ```
 
-- Then, I compiled and ran the program on my computer, it returns information about my computer. 
+2. Then, I compiled and ran the program on my computer, it returns information about my computer. 
 ![Image](1.png)
 
-- I copied the file from my computer to the server using `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` command. To verify, I connected with server again using `ssh` commmand and found the `WhereAmI.java` using `ls`. 
+3. I copied the file from my computer to the server using `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` command. To verify, I connected with server again using `ssh` commmand and found the `WhereAmI.java` using `ls`. 
 ![Image](2.png)
 
-- I compiled and ran the file on the server and got information about the server computer as expected.
+4. I compiled and ran the file on the server and got information about the server computer as expected.
 ![Image](3.png)
 
 ---
 
+
 ## Setting an SSH Key
+- SSH key allows users to connect with server without entering passwords. Client computer will store a private key, and the server will store the public key. Whenever client try to connect with the the server, user no longer needs to enter passwords once the private key matches with the public key. 
+
+1. To do so, I first generated a ssh-key on the client and the save the public key in my computer. ![Image](4.png)
+
+2. I logged into server, created a new directory called `.ssh`, and logged out from the server. ![Image](5.png)
+
+3. I copied the public key from client to the server. When I tried to connect with the server again, I am no longer asked to enter passwords. ![Image](6.png)
+
+---
 
 
 ## Optimizing Remote Running
