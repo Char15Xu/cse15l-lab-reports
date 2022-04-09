@@ -21,28 +21,30 @@ This lab report includes the following sections:
 
 3. Once downloaded from the website, follow the instruction and finish intalling on the computer. 
 
+--- 
 
 ## Remotely Connecting
 
 1. To remotely connect with the server computer, I first found my username from this [website](https://sdacs.ucsd.edu/~icc/index.php)
 
-2. Then, I typed `ssh cs15lsp22<username>@ieng6.ucsd.edu` and entered password, which successfully connect my terminal with the server computer as shown below.
+2. Then, I typed `ssh cs15lsp22<username>@ieng6.ucsd.edu` and entered password, which successfully connected my terminal with the server computer as shown below.
 
 ![Image](ssh1.png)
 ![Image](ssh2.png)
 
+--- 
 
 ## Trying Some Commands
-Here is some commmands I tried on the server computer. 
+- Here is some commmands I tried on the server computer, including cd, cd ~, ls, ls -lat, ls -a. 
 ![Image](commandssh.png)
 
-Here is some commands I tried on my Mac after I disconnect from the server computer using "exit" command. 
+- I tried the above commands on my Mac after I disconnect from the server computer using "exit" command. Here is the result.
 ![Image](commandmac.png)
 
-
+--- 
 
 ## Moving Files with scp
-
+- 
 ## Setting an SSH Key
 
 ## Optimizing Remote Running
