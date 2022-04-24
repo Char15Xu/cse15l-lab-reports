@@ -43,7 +43,7 @@ For each code change, I will include
 ## Fasely read image as a link
 1. ![Image]()
 
-2. [failtest3](failtest3.png)
+2. [failtest3](https://github.com/Char15Xu/markdown-parser/blob/main/failtest3.md)
 
 3. Output
 ![Image](failtest3.png)
