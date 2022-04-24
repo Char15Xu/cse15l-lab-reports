@@ -2,9 +2,9 @@
 April 24th, 2022. Tianyang Xu. 
 
 This lab report includes three code changes that address following symptoms:
-- Infinite loop caused by incorrect index (test2)
-- Infinite loop caused by false recognition of parenthesis (test7)
-- Falsely read image as a link (test6)
+- Infinite loop caused by incorrect index (failtest1)
+- Infinite loop caused by false recognition of parenthesis (failtest2)
+- Falsely read image as a link (failtest3)
 
 All of the test and code changes are stored in my repository. 
 For each code change, I will include 
@@ -16,17 +16,21 @@ For each code change, I will include
 --- 
 
 ## Infinite loop caused by incorrect index 
-- [test2](https://github.com/Char15Xu/markdown-parser/blob/main/test-file2.md)
+![codechange1]()
+- [failtest1](https://github.com/Char15Xu/markdown-parser/blob/main/failtest1.md)
+- Output
+![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
+
 
 
 - Output on the command line image
 
 
 ## Infinite loop caused by false recognition of parenthesis
-- [test7](https://github.com/Char15Xu/markdown-parser/blob/main/test-file7.md)
+- [failtest2](https://github.com/Char15Xu/markdown-parser/blob/main/failtest2.md)
 
 
 
 ## Fasely read image as a link
-- [test6](https://github.com/Char15Xu/markdown-parser/blob/main/test-file6.md)
+- [failtest3](https://github.com/Char15Xu/markdown-parser/blob/main/failtest3.md)
 
