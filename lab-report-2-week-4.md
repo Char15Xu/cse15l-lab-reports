@@ -16,7 +16,8 @@ For each code change, I will include
 --- 
 
 ## Infinite loop caused by incorrect index 
-1. ![Image](fix1.png)
+1. code change diff
+![Image](fix1.png)
 
 2. [failtest1](https://github.com/Char15Xu/markdown-parser/blob/main/failtest1.md)
 
@@ -29,7 +30,8 @@ For each code change, I will include
 ---
 
 ## Infinite loop caused by false recognition of parenthesis
-1. ![Image](fix2.png)
+1. code change diff
+![Image](fix2.png)
 
 2. [failtest2](https://github.com/Char15Xu/markdown-parser/blob/main/failtest2.md)
 
@@ -41,7 +43,8 @@ For each code change, I will include
 ---
 
 ## Fasely read image as a link
-1. ![Image](fix3.png)
+1. code change diff
+![Image](fix3.png)
 
 2. [failtest3](https://github.com/Char15Xu/markdown-parser/blob/main/failtest3.md)
 
