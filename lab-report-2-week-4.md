@@ -1,7 +1,7 @@
 # Lab Report 2 Week 4
 April 24th, 2022. Tianyang Xu. 
 
-This lab report includes three code changes that address following symptoms:
+This lab report includes three code changes for MarkdownParse file which has the following symptoms:
 - Infinite loop caused by incorrect index (failtest1)
 - Infinite loop caused by false recognition of parenthesis (failtest2)
 - Falsely read image as a link (failtest3)
