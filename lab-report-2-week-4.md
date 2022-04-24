@@ -16,12 +16,12 @@ For each code change, I will include
 --- 
 
 ## Infinite loop caused by incorrect index 
-1. ![codechange1]()
+1. ![Image]()
 
 2. [failtest1](https://github.com/Char15Xu/markdown-parser/blob/main/failtest1.md)
 
 3. Output
-![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
+![Image](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
 
 
 
@@ -30,21 +30,21 @@ For each code change, I will include
 ---
 
 ## Infinite loop caused by false recognition of parenthesis
-1. ![codechange2]()
+1. ![Image]()
 
 2. [failtest2](https://github.com/Char15Xu/markdown-parser/blob/main/failtest2.md)
 
 3. Output
-![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
+![Image](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
 
 
 
 ---
 
 ## Fasely read image as a link
-1. ![codechange3]()
+1. ![Image]()
 
 2. [failtest3](https://github.com/Char15Xu/markdown-parser/blob/main/failtest3.md)
 
 3. Output
-![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
+![Image](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
