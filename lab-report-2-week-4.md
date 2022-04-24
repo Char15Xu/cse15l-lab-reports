@@ -16,21 +16,35 @@ For each code change, I will include
 --- 
 
 ## Infinite loop caused by incorrect index 
-![codechange1]()
-- [failtest1](https://github.com/Char15Xu/markdown-parser/blob/main/failtest1.md)
-- Output
+1. ![codechange1]()
+
+2. [failtest1](https://github.com/Char15Xu/markdown-parser/blob/main/failtest1.md)
+
+3. Output
 ![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
 
 
 
 - Output on the command line image
 
+---
 
 ## Infinite loop caused by false recognition of parenthesis
-- [failtest2](https://github.com/Char15Xu/markdown-parser/blob/main/failtest2.md)
+1. ![codechange2]()
+
+2. [failtest2](https://github.com/Char15Xu/markdown-parser/blob/main/failtest2.md)
+
+3. Output
+![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
 
 
+
+---
 
 ## Fasely read image as a link
-- [failtest3](https://github.com/Char15Xu/markdown-parser/blob/main/failtest3.md)
+1. ![codechange3]()
 
+2. [failtest3](https://github.com/Char15Xu/markdown-parser/blob/main/failtest3.md)
+
+3. Output
+![output1](/Users/charlesxu/Documents/GitHub/cse15l-lab-reports/failtest1.png)
