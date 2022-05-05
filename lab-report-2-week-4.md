@@ -52,3 +52,8 @@ For each code change, I will include
 ![Image](failtest3.png)
 
 4. According to the markdown file syntax, ! + [] + () is used for creating an image. However, since the program only reads the brackets and parenthesis as indicator for link, it falsely output the image path inside the parenthesis as a link. The symptom is the incorrect output in the terminal. The bug is that the code ignore the similar syntax  between embeding a link and embeding an image. The failure-inducing input is the incomplete defined method for MarkdownParse. 
+
+---
+
+
+[Back to main page](https://char15xu.github.io/cse15l-lab-reports/)
