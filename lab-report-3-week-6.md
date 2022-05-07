@@ -45,4 +45,10 @@ This report will include three sections:
 2. Now, I will compile and run the test on ieng6 server
 ![Image](lab3-1.5.png)
 
+3. Finally, I can copy from local computer to the remote computer using a single line of command.
+![Image](lab3-3.1.png)
+
+---
+
+
 [Back to main page](https://char15xu.github.io/cse15l-lab-reports/)
