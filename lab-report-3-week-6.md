@@ -26,6 +26,23 @@ This report will include three sections:
 ---
 
 ## Setup Github Access from ieng6
-1. 
+1. First, here is the SSH keys stored on Github
+![Image](lab3-2.2.png)
+
+2. Then, the private key is stored in the .ssh/config file
+![Image](lab3-2.1.png)
+
+3. Using the ieng6 server computer, I can commit a change of file to Github. Here is the commit [Link](https://github.com/Char15Xu/markdown-parser/commit/018d1212d422a55b3ad1e5b3243ee647091567b8) and the commit command in the below picture. 
+![Image](lab3-2.3.png)
+
+---
+
+## Copy whole directories with `scp -r`
+1. In the first section, I have already copied a whole directory from local computer to the ieng6 computer using the `scp -r` command. 
+![Image](lab3-1.5.png)
+![Image](lab3-1.4.png)
+
+2. Now, I will compile and run the test on ieng6 server
+![Image](lab3-1.5.png)
 
 [Back to main page](https://char15xu.github.io/cse15l-lab-reports/)
