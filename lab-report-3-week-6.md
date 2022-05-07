@@ -42,8 +42,8 @@ This report will include three sections:
 ![Image](lab3-1.5.png)
 ![Image](lab3-1.4.png)
 
-2. Now, I will compile and run the test on ieng6 server
-![Image](lab3-1.5.png)
+2. Now, I will compile and run the test on ieng6 server. 
+![Image](lab3-3.2.png)
 
 3. Finally, I can copy from local computer to the remote computer using a single line of command.
 ![Image](lab3-3.1.png)
