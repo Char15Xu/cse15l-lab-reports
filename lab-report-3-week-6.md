@@ -33,7 +33,7 @@ This report will include three sections:
 ![Image](lab3-2.1.png)
 
 3. Using the ieng6 server computer, I can commit a change of file to Github. Here is the commit [Link](https://github.com/Char15Xu/markdown-parser/commit/018d1212d422a55b3ad1e5b3243ee647091567b8) and the commit command in the below picture. 
-![Image](lab3-2.3.png)
+![Image](lab3.2.3.png)
 
 ---
 
