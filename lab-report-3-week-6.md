@@ -19,7 +19,7 @@ This report will include three sections:
 3. By entering the `ssh ieng6`, I can now connect to the remote server easily.
 ![Image](lab3-1.3.png)
 
-4. Moreover, I am able to copy a file from my local computer to the remote server using a single command. You can see from the below images, all files in the markdown-parse have been copied from my local computer to the remote server. 
+4. Moreover, I am able to copy the whole directory from my local computer to the remote server using a single command. You can see from the below images, all files in the markdown-parse have been copied from my local computer to the remote server. 
 ![Image](lab3-1.5.png)
 ![Image](lab3-1.4.png)
 
