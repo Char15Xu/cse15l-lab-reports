@@ -30,10 +30,12 @@ This report will include three sections:
 ![Image](lab3-2.2.png)
 
 2. Then, the private key is stored in the .ssh/config file
-![Image](lab3-2.1.png)
+![Image](lab3-2.3.png)
 
-3. Using the ieng6 server computer, I can commit a change of file to Github. Here is the commit [Link](https://github.com/Char15Xu/markdown-parser/commit/018d1212d422a55b3ad1e5b3243ee647091567b8) and the commit command in the below picture. 
+3. Using the ieng6 server computer, I can commit a change of file to Github. The commit command in the below picture. 
 ![Image](lab3.2.3.png)
+Here is the commit [Link](https://github.com/Char15Xu/cse15l-lab-reports/commit/2af7214e4941127fb2fe4f535d69bbdc17c06c3a)
+![Image](lab3-2-4.png) 
 
 ---
 
