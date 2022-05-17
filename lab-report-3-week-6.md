@@ -47,8 +47,8 @@ Here is the commit [Link](https://github.com/Char15Xu/cse15l-lab-reports/commit/
 2. Now, I will compile and run the test on ieng6 server. 
 ![Image](lab3-3.2.png)
 
-3. Finally, I can copy from local computer to the remote computer using a single line of command.
-![Image](lab3-3.1.png)
+3. Finally, I can copy from local computer to the remote computer and run the test on the server using a single line of command.
+![Image](lab3-3-4.png)
 
 ---
 
