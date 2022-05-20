@@ -11,9 +11,9 @@ This report will include three sections:
 --- 
 
 ## Links
-Below are the link to my repository and the repository I reviewed
-My repository: [Link] (https://github.com/Char15Xu/markdown-parser)
-The one I reviewed: [Link] (https://github.com/aHewig/markdown-parser)
+Below are the link to my repository and the repository I reviewed. 
+My repository [Link](https://github.com/Char15Xu/markdown-parser)
+The one I reviewed [Link](https://github.com/aHewig/markdown-parser)
 
 
 --- 
