@@ -28,11 +28,9 @@ Tests I wrote for my repository
 ![Image](lab4-reviewcode.png)
 
 3. I ran the test files first on my repostiroy, and here are the JUnit test output for each part of the test.
-
 ![Image](lab4-self2.png)
 
 4. I ran the test files again on the repostiroy I reviewed, and here are the JUnit test output for each part of the test.
-
 ![Image](lab4-review2.png)
 
 
