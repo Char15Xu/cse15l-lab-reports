@@ -10,9 +10,10 @@ This report will include three sections:
 
 --- 
 
-## Links for My Repository and The One I reviewed
-[My_Repository] (https://github.com/Char15Xu/markdown-parser)
-[The_Repository_I_Reviewed] (https://github.com/aHewig/markdown-parser)
+## Links
+Below are the link to my repository and the repository I reviewed
+My repository: [Link] (https://github.com/Char15Xu/markdown-parser)
+The one I reviewed: [Link] (https://github.com/aHewig/markdown-parser)
 
 
 --- 
@@ -22,18 +23,18 @@ This report will include three sections:
 
 2. Then, I wrote three tests for each of the Snippet files according to the corret expected output. Below are the tests I wrote for each of the repositories. They are essentially the same. 
 Tests I wrote for my repository
-[!Image](lab4-selfcode.png)
+![Image](lab4-selfcode.png)
 
 Tests I wrote for the repository I reviewed
-[!Image](lab4-reviewcode.png)
+![Image](lab4-reviewcode.png)
 
 3. I ran the test files first on my repostiroy, and here are the JUnit test output for each part of the test.
 
-[!Image](lab4-self2.png)
+![Image](lab4-self2.png)
 
 4. I ran the test files again on the repostiroy I reviewed, and here are the JUnit test output for each part of the test.
 
-[!Image](lab4-review2.png)
+![Image](lab4-review2.png)
 
 
 --- 
