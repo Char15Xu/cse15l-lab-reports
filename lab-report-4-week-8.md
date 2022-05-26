@@ -23,9 +23,9 @@ The one I reviewed [Link](https://github.com/aHewig/markdown-parser)
 
 2. Then, I wrote three tests for each of the Snippet files according to the corret expected output. Below are the tests I wrote for each of the repositories. They are essentially the same. 
 Tests I wrote for my repository
-![Image](lab4-selfcode.png)
+![Image](lab4-correction.png)
     Tests I wrote for the repository I reviewed
-![Image](lab4-reviewcode.png)
+![Image](lab4-correction.png)
 
 3. I ran the test files first on my repostiroy, and here are the JUnit test output for each part of the test.
 ![Image](lab4-self2.png)
