@@ -20,9 +20,10 @@ Test 143: [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test
 ---
 
 ## Expected Output
-For both tests, neither of my result was correct. For test 142, the expected output should be [], which has nothing inside. Also, test 143 should have [] with nothing inside since neither of these test cases has an actual link. The markdown-parse provided by the TA and my own markdown-parse both have incorrect output for test 142, but the TA does have the correct out put for test 143. To check, we can use VSCode preview.
-For test 14, we get ![Image](lab5-14.png)
-For test 143, we get ![Image](lab5-143.png)
+For both tests, neither of my result was correct. For test 14, the expected output should be [], which has nothing inside. Also, test 143 should be [] with nothing inside since neither of these test cases has an actual link. The markdown-parse provided by the TA and my own markdown-parse both have incorrect output for test 14, but the TA does have the correct out put for test 143. To check, we can use VSCode preview.
+For test 14, I get ![Image](lab5-14.png)
+For test 143, I get ![Image](lab5-143.png)
+Neither of these files have an actual link. 
 
 ---
 
