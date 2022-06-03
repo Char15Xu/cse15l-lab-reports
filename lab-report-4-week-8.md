@@ -43,3 +43,5 @@ Tests I wrote for my repository
 2. For Snippet 2, I do not think there is a small change I can do to fix the wrong output. The only solution is to write codes that allow nested bracket. Right now, my code only looks for the first open and close bracket. My code does not consider situations for more than one pair of bracket exist. To have correct output, I need to rewrite the entire logic for my bracket search. I can use stack to find the pairs of bracket, but I do not think a small change can fix this issue. 
 
 3. I do not think there is a small change that can fix the problem for Snippet 3 either. My code looks for the next closing bracket and closing parenthese after the open bracket and open parenthese. To fix the issue, I also need to rewrite the logic for finding brackets and parentheses. 
+
+[Back to main page](https://char15xu.github.io/cse15l-lab-reports/)
