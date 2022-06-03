@@ -34,8 +34,9 @@ The actual output, however, is ![Image](lab5-actual1.png)
 ---
 
 ## Discussion
-For test 14,
-For test 143,
+For test 14, the first problem is that the backslash escape disturbs the order of my program finding characters. Secondly, my markdown parse finds links based on looking for the open bracket, end bracket, open parentheses, and end parentese sequentially. The program will only stop if the count and currentIndex are less than the total length. If not, the program will keep finding brackets and parentheses in a sequence. With the backslash escape, this program reads the first three lines until count and currentIndex are less than the total length.
+
+For test 143, the file is defining a function which is clearly not a link. The problem is that there is a parenthese which my program is looking for. It finds the x inside a pair of opening and closing parenthese and believed that it was the link. 
 
 ---
 
